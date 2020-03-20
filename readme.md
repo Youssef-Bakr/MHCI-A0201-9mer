@@ -8,6 +8,7 @@ Evaluate several MHC-I epitope prediction algorithms (IEDB ANN, MHCFlurry, and N
 3. MHCFlurry1.4.3 prediction performed using [MHCFlurry Python Library](https://github.com/openvax/mhcflurry)
 
 # Main Findings
+For details see jupyter notebook
 
 ## 1. Linearity of predicted IC50 vs experimental IC50 exists on a "grand" scale
 
